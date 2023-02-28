@@ -1,0 +1,17 @@
+{
+    "name": "Cherry",
+    "description": "Cherry Is Telegram Advanced Bot To Mention All Members In Group.",
+    "logo": "https://te.legra.ph/file/51b76b943b25deadb7e8b.jpg",
+    "env": {
+        "TOKEN": {
+            "description": "Enter bot token."
+        },
+        "APP_ID": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        }
+    },
+    "buildpacks": [{"url": "heroku/python"}]
+}
