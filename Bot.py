@@ -28,22 +28,21 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴄʜᴇʀʀʏ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ᴠɪᴋᴋᴜ](https://t.me/D3AD_B0Y)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴄʜᴇʀʀʏ ʜᴇʟᴘ](https://t.me/MUSIX_W0RLD)┓\n┣★ ʀᴇᴘᴏ › : [ᴄʜᴇʀʀʏ ʀᴇᴘᴏ](https://github.com/Vikku1343/MentionAll)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/D3AD_B0Y) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴅᴀɪᴢʏ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ᴠɪᴋᴋᴜ](https://t.me/StaarrrKinnggg)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴅᴀɪᴢʏ ʜᴇʟᴘ](https://t.me/ll_YARRO_KI_DUNIYA_II)┓\n┣★ ʀᴇᴘᴏ › : [ᴅᴀɪᴢʏ ʀᴇᴘᴏ](https://github.com/Vikku1343/MentionAll)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/StaarrrKinnggg) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
                 Button.url(
                     "☀︎︎️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ☀︎︎",
-                    "https://t.me/Cherrymention_bot?startgroup=true",
+                    "https://t.me/DaizyMentionBot?startgroup=true",
                 ),
             ],
             [
-                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/lifelineenjoy"),
-                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/ishqsufiiyana"),
+                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/ll_YARRO_KI_DUNIYA_II"),
+                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/Kafiirana"),
             ],
             [
-                Button.url("☀︎︎ ʙʀᴏ ☀︎︎️️", "https://t.me/D3AD_B0Y"),
-                Button.url("☀︎︎ ᴋɪɴɢ ☀︎︎︎", "https://t.me/D3AD_B0Y"),
+                Button.url("☀︎︎ ᴏᴡɴᴇʀ ☀︎︎︎", "https://t.me/StaarrrKinnggg"),
             ],
         ),
     )
@@ -60,7 +59,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/Y_K_D_1"),
+                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/DaisyyMusixBot"),
                 Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/vkcreativek9167"),
             ]
         ),
@@ -72,13 +71,13 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴄʜᴇʀʀʏ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ᴠɪᴋᴋᴜ](https://t.me/D3AD_B0Y)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʏᴋᴅ ᴀɴᴅ ʟɪꜰᴇʟɪɴᴇ\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/c/vkcreativek9167)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴅᴀɪᴢʏ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ᴠɪᴋᴋᴜ](https://t.me/StaarrrKinnggg)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʏᴋᴅ ᴀɴᴅ ʟɪꜰᴇʟɪɴᴇ\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/c/vkcreativek9167)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/lifelineenjoy"),
+                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/DaisyyMusixBot"),
                 Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/vkcreativek9167"),
             ]
         ),
@@ -218,5 +217,5 @@ async def cancel_spam(event):
         return await event.respond("__Stopped.__")
 
 
-print(">> CHERRY WORKING <<")
+print(">> DAIZY WORKING <<")
 client.run_until_disconnected()
